@@ -1,1 +1,17 @@
+# Secrets
 .env
+config.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Charts or logs (if you're saving)
+charts/
+logs/
+
+# OS / IDE-specific
+.DS_Store
+.vscode/
+.idea/
